@@ -1,3 +1,5 @@
+//  Smallest multiple
+
 function main(num) {
   var arr = Array.from({ length: num }, (val, index) => index + 1);
 

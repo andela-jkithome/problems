@@ -1,3 +1,5 @@
+//Largest palindrome product
+
 function main() {
   var palindrome = 0;
   for (var i = 100; i <= 999; i++) {
