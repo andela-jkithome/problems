@@ -1,3 +1,5 @@
+// Largest product in a grid
+
 function main(arr, n) {
   var len = arr.length;
   sum = 0;
