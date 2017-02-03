@@ -1,2 +1,2 @@
-# project-euler
-Solutions to Project Euler problems using javascript/python
+# Problems
+Solutions to different mathematics code problems using javascript primarily and occasionally python
